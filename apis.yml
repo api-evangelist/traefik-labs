@@ -25,7 +25,7 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-01-08'
-modified: '2025-01-13'
+modified: '2025-10-28'
 position: Consumer
 description: >-
   Traefik Labs is a software company that specializes in developing cutting-edge
@@ -41,3 +41,45 @@ maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
 specificationVersion: '0.19'
+common:
+  - name: GitHub Organization
+    url: https://github.com/traefik
+    type: GitHubOrganization
+  - name: Run APIs Easily. Anywhere. | Traefik Labs
+    description: 'null'
+    url: https://traefik.io/
+    type: Website
+  - name: Blog | Traefik Labs
+    description: 'null'
+    url: https://traefik.io/blog
+    type: Blog
+  - name: 'Cloud Networking Glossary: Understand Key Concepts'
+    description: 'null'
+    url: https://traefik.io/glossary
+    type: Glossary
+  - name: Events | Traefik Labs
+    description: 'null'
+    url: https://traefik.io/events
+    type: Events
+  - name: Plugins
+    description: 'null'
+    url: https://plugins.traefik.io/plugins
+    type: Plugins
+  - name: >-
+      Traefik Labs Community Forum - Discuss, Learn, and Connect with the
+      Community!
+    description: 'null'
+    url: https://community.traefik.io/
+    type: Forums
+  - name: Compare Traefik Products & Get Pricing | Traefik Labs
+    description: 'null'
+    url: https://traefik.io/pricing
+    type: Pricing
+  - name: Partners | Traefik Labs
+    description: 'null'
+    url: https://traefik.io/partners
+    type: Partners
+  - name: Welcome to Traefik Labs documentation | Traefik Labs Docs
+    description: 'null'
+    url: https://doc.traefik.io/
+    type: Documentation
